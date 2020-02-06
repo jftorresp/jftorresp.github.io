@@ -3,6 +3,10 @@
 The objective of the proyect is to design an **static Home Page**, talking about **myself**, my experiencies, habilities, hobbies and stuff. <br>
 ## Technologies <br>
 HTML, CSS, Bootstrap 4, Javascript, Node.js, PHP.
+## Prerequisites
+
+Before running de webpage you need to have installed in your computer a web server launcher such as http-server or reload. Also yo may need to install Node.js
+
 ## Running
 
 The page is a static HTML page, with some javascript code in it. To run it, just launch your a **web server**, e.g.:
