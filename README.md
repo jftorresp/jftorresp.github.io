@@ -31,10 +31,5 @@ The page is a static HTML page, with some javascript code in it. To run it, just
 Homepage initial view
 <br>
 
-![Projects image](https://i.imgur.com/dINaxTt.png)
-<br>
-View of the Behance projects section
-<br>
-
  Made by [Juan Felipe Torres](jftorresp.github.io), licensed under MIT
 
