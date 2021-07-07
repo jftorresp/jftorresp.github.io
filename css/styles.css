@@ -35,6 +35,8 @@ header #logo{
   text-decoration: none;
 }
 
+
+/**Al poner en la variable position de header el valor absolute cuando haces scroll down y luego scroll up la barra de navegacion tapa la header section yo cambiaria eso ya que se ve feo**/
 header h1{
   font-family: 'Josefin Sans';
   color: #fff;
