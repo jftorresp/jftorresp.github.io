@@ -33,6 +33,8 @@ let count = 1;
 Function that counts the number of times the like button is clicked, is a likes counter.
 Print the number of likes on the console and change the value to the p element with the id count.
 */
+/**Cuando se refresca la pagina el numero de likes vuelve a cero, seria genial encontrar la manera de que esto no pase
+*/
 function countLikes(){
   document.getElementById("count").innerHTML = count ++;
   localStorage.setItem("countlikes", count);
